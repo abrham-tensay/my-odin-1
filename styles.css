@@ -12,7 +12,18 @@ body{
 .header1{
     background-color:#1F2937;
     color: #ffffff;
+}
+.header-logo-links{
+    display: flex;
+    justify-content: space-between;
     
+}
+.header-main-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    text-align: center;
 }
 .header1 .header .header-logo h3{
     font-size: 24px;
@@ -31,6 +42,10 @@ body{
 .header1 .header-main-page button{
     background-color: #3882f6;
 color: #ffffff;
+}
+.main-section-child1{
+    display: flex;
+    
 }
 .section3 button{
     background-color: #3882f6;
